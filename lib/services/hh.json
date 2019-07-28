@@ -1,0 +1,79 @@
+{
+    "personal": {
+        "userId": "2G5733366H",
+        "fullName": "Marwan Mostafa Ragab",
+        "userName": "Maco",
+        "phone": null,
+        "pass": "70",
+        "userImgUrl": "https: //firebasestorage.googleapis.com/v0/b/myway-7be03.appspot.com/o/storage%2Femulated%2F0%2FDCIM%2FCamera%2FIMG_20190325_060913.jpg?alt=media&token=d9489e8b-fed7-4ea9-802c-7850aef73a1f",
+        "userImg": "/storage/emulated/0/DCIM/Camera/IMG_20190325_060913.jpg",
+        "rating": null
+    },
+    "car": {
+        "carId": "i6CBxpouy7",
+        "brand": "Toyota",
+        "year": "2011",
+        "size": "5",
+        "model": "Yaris",
+        "carImgPath": "null",
+        "carImgUrl": "https: //firebasestorage.googleapis.com/v0/b/myway-7be03.appspot.com/o/storage%2Femulated%2F0%2FDCIM%2FCamera%2FIMG_20190325_060906.jpg?alt=media&token=d4b71ed4-38d8-4a32-b6fa-e4cde43aa93c",
+        "userId": "2G5733366H"
+    },
+    "trips": [
+        {
+            "tripID": "uI81783371",
+            "placeFrom": "yoyaa",
+            "placeTo": "ssisisi",
+            "timeFrom": "3: 00 PM",
+            "timeTo": "9: 00 PM",
+            "city": "الإسكندرية",
+            "days": [
+                "الاحد",
+                "الاربعاء",
+                "الجمعة"
+            ],
+            "tripID": "2G5733366H",
+            "passengers": "null"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+// [
+//     {
+//         "timeFrom": "3: 00 PM",
+//         "passengers": null,
+//         "timeTo": "8:00 PM",
+//         "city": "الإسكندرية",
+//         "tripID": "7BJ76BNEIX",
+//         "placeTo": "karmoz",
+//         "days": [
+//             "الاثنين",
+//             "الخميس",
+//             "السبت"
+//         ],
+//         "placeFrom": "agamy",
+//         "locTo": "Instance of 'GeoPoint'"
+//     },
+//     {
+//         "timeFrom": "2:00 PM",
+//         "s": "null",
+//         "timeTo": "4:00 PM",
+//         ": الإسكندرية , ": "7BJ76BNEIX",
+//         ": dkhela, ": [
+//             "الاثنين",
+//             "الثلاثاء",
+//             "الخميس",
+//             "الجمعة",
+//             "الاحد"
+//         ],
+//         ": shatby, ": "Instance of 'GeoPoint'"
+//     }
+// ]
